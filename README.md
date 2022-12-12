@@ -4,7 +4,7 @@
 #### Um projeto feito em conjunto com o CodeBoost para aprendizado e aperfeiçoamento. <br /><br />
 
 
-##### Novo projeto : HTML,CSS,JAVASCRIT,SCSS.
+##### Novo projeto:HTML,CSS,JAVASCRIT,SCSS.
 
 ## Recursos
 - 100% Responsivo.
